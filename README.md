@@ -4,14 +4,12 @@
 
 # Rotation Profiles Description: 
 
-### Support Symbols: 
+### Support 
 * :x: - Not Support / Нет поддержки;
 * :white_check_mark: - Full Support / Полная поддержка;
 * :negative_squared_cross_mark: - Work good but not enough / Хорошо работает, но можно и лучше;
 * :heavy_check_mark: - Support from a certain level or phase / Подддерживается с определенного уровня или фазы;
-### Custom Server Symbols:
-* **Т4 / Т5 / Т6**  - Sirus.su full support custom tiers T4 / T5 / Т6 and all custom spells / полная поддержка кастомных комплектов Т4 / Т5 / Т6 (2Т6) и всех кастомных заклинаний;
-* :x: - Not Support / Нет поддержки;
+
 <div align="center">
 
 | Class/Класс | Profile Name /<br>Название профиля  | Quality* /<br>Качество* | Leveling /<br>Прокачка | Raidable /<br>Рейдовый | Custom Server /<br>Кастомные сервера |
