@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://github.com/viktnnchik/Rotarions_NI/tree/main/assets/main/main.jpg](https://github.com/viktnnchik/Rotarions_NI/blob/main/assets/main/main.jpg)"  width="750" height="300" alt="DarhangeR Rotations"/>
+    <img src="https://raw.githubusercontent.com/viktnnchik/Rotarions_NI/main/assets/main/main.jpg"  width="750" height="300" alt="DarhangeR Rotations"/>
 </p>
 
 # Rotation Profiles Description: 
