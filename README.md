@@ -28,14 +28,3 @@
 | ![Warrior](https://raw.githubusercontent.com/viktnnchik/Rotarions_NI/main/assets/classes/Warrior.webp) | Arms_<br>Fury_<br>Protection_  | ![0%](https://progress-bar.dev/0)<br>![0%](https://progress-bar.dev/0)<br>![0%](https://progress-bar.dev/0) | :x:<br>:x:<br>:x: | :x:<br>:x:<br>:x: | **:x:**<br>:x:<br>**:x:** |
 </div>
 
-* **Quality/Качество** - Means Performance/Features per $ , compared to competitors, aka: Byster, SecondHandScript, AccLeiTo, etc. / Означает Производительность/Функционал на $ , в сравненение с конкурентами, аки: Byster, SecondHandScript, AccLeiTo, и тд;
-<br>
-
-# Other Profiles Description: 
-Free profile accessed by anyone who has purchased at least one full class / Бесплатный профиль к которому получает доступ любой, кто купил хотя бы один полный класс;
-
-<div align="center">
-
-| Generic /<br>Общий| Profile Name /<br>Название профиля | Quick Description /<br>Описание | Quality* /<br>Качество* | Leveling /<br>Прокачка | Custom Server /<br>Кастомные сервера |
-|  :----------------: |  :----------------: |  :----------------: |  :----------------: |  :----------------: | :----------------: | 
-| ![Tool](https://github.com/darhanger/darhanger/blob/master/Assets/Classes/Tool.webp) | Gnomish_Multitool_Profile | Anti AFK<br>Auto Click on objects<br>Auto Repair<br>Auto Raid Check<br>Proffession Helper<br>Autoloot without clicking<br>Inscription Support<br>Jewelcrafting Support<br>Skinning Support<br>**Internal Fishbot**| ![100%](https://progress-bar.dev/100) | :white_check_mark: | :white_check_mark: |
